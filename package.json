@@ -1,0 +1,37 @@
+{
+  "name": "eris-collects",
+  "version": "1.0.0",
+  "description": "Collect and Manage Interactions and Messages in Eris",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "types": "./src/index.d.ts",
+  "files": [
+    "/src"
+  ],
+  "keywords": [
+    "discord",
+    "eris",
+    "shuruhatik",
+    "bot",
+    "collector",
+    "interaction",
+    "collectors",
+    "message",
+    "channel",
+    "filter",
+    "time limit",
+    "event listener"
+  ],
+  "author": "shuruhatik",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shuruhatik/eris-collects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shuruhatik/eris-collects/issues"
+  },
+  "homepage": "https://github.com/Shuruhatik/eris-collects"
+}
